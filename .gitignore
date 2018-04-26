@@ -1,0 +1,6 @@
+dejavu/
+elasticsearch-6.2.4/
+elasticsearch-head/
+*.zip
+venv3/
+venv/
